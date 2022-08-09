@@ -4,12 +4,12 @@
 
 ## Configure seu arquivo .env
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=database_name
-DB_USERNAME=database_username
-DB_PASSWORD=database_password
+DB_CONNECTION=mysql <br>
+DB_HOST=127.0.0.1 <br>
+DB_PORT=3306 <br>
+DB_DATABASE=database_name <br>
+DB_USERNAME=database_username <br>
+DB_PASSWORD=database_password <br>
 
 ## Crie o arquivo CSV
 
